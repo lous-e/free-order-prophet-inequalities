@@ -1,4 +1,4 @@
-# free-order-prophet-inequalities
+# Free-Order Prophet Inequalities with Non-Identical Distributions: A Comparison to the IID Benchmark
 
 Prophet inequalities offer a mathematical framework for understanding the limits of decision-making when future information is unknown. A common approach to quantify this uncertainty is to compare the performance of an online decision-maker (gambler) against that of an omniscient prophet who observes all future values in advance. The classical result establishes that a gambler can guarantee at least half of the prophet's expected reward. Stronger guarantees exist for when random variables are drawn from the independent and identical distributions (*iid*) — however, this assumption may not always be realistic in practice.
 
